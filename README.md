@@ -19,21 +19,7 @@ I spend my free time creating projects, learning new technologies, and improving
 While coding is currently a hobby, my long-term goal is to transition into a full-time career in software development and continue growing as a developer every day.  
   
 
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
+<br/>
 
 
 ## Languages and Tools  
